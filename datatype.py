@@ -3,8 +3,8 @@ print(type(30)) #para ver el tipo de dato #entero
 # float
 print(type(30.5)) #decimal
 #boolean tipo de dato logico
-print(type(true))
-print(type(false))
+print(type(True))
+print(type(False))
 # Lists
 [10, 20, 30, 40, 50]
 ['saludos', 'hola conschtumare']
