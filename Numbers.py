@@ -49,3 +49,5 @@ print(edad2)
 # un texto no es un numero
 #por lo tanto ponemos un int y se lo pasamos la variable
 #ahora si saldria 28 si ingresamos 23
+#si insertamos texto esto nos dara un error
+#porque eso no se puede convertir en un numero
