@@ -1,5 +1,5 @@
 #Si por ejeplo queremos mandar imprimir estos datos podraimos hacerlo mandadndo a llamar por sus indice
-#Pero cuando quisieramos agregar un dato mas tendriamos que escribir otro print y el indice correspodiente a elitem.
+#Pero cuando quisieramos agregar un dato mas tendriamos que escribir otro print y el indice correspodiente a el item.
 
 comidas = [ 'manzanas', 'pan', 'queso', 'leche', 'platanos', 'añadiendonuevoitem']
 # print(comidas[0])
@@ -40,4 +40,4 @@ contar = 4
 while contar <= 10 :
     print(contar) #va imprimir el valor
     contar = contar + 1 #va sumar el dato 1 para llegar a 10
-#cuando llegue a 10 dejara de hacerlo?
+#cuando llegue a 10 dejara de hacerlo? En efecto
