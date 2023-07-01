@@ -42,3 +42,4 @@ if (not(x==y)):
     print("x no es igual a y")
 else: print("si es igual")
 
+#aqui agregamos un comentario conchetumare
